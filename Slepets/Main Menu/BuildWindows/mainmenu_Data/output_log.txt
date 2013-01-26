@@ -14,7 +14,12 @@ Platform assembly: D:\GitHub\I_12_1sp_team_project\Slepets\Main Menu\BuildWindow
 Loading D:\GitHub\I_12_1sp_team_project\Slepets\Main Menu\BuildWindows\mainmenu_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: D:\GitHub\I_12_1sp_team_project\Slepets\Main Menu\BuildWindows\mainmenu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading D:\GitHub\I_12_1sp_team_project\Slepets\Main Menu\BuildWindows\mainmenu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.123 seconds
+- Completed reload, in  0.096 seconds
+Level '' (1) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename: C:/BuildAgent/work/d9c061b1c154f5ae/Runtime/Misc/Player.cpp Line: 265)
+
 Level '' (1) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
