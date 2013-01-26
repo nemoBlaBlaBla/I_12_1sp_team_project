@@ -10,5 +10,5 @@
 "Dashko"
 "Udovik"
 "Lalak"
-"Slepec"
+"Slepets"
 "Tkachenko"
