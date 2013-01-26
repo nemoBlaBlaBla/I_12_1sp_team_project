@@ -165,7 +165,7 @@ pip-log.txt
 ###############
 # Unity3d
 ###############
-.txt
+*.txt
 
 [Ll]ibrary/
 [Tt]emp/
